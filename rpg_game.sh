@@ -52,7 +52,7 @@ do
         # Run Away
             if [[ $attack == r ]]; then
             clear
-            echo "You killed $kill beasts but you ran away like a little bitch"
+            echo "You killed $kill beasts but you ran away"
             exit
         fi
 
